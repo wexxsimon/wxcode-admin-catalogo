@@ -1,0 +1,5 @@
+rootProject.name = 'wxcode-admin-catalogo'
+include 'domain'
+include 'application'
+include 'infrasctructure'
+
